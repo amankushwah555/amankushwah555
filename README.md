@@ -35,4 +35,4 @@ More: [crm](https://github.com/amankushwah555/crm) · [chat-app](https://github.
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/amankushwah555/)
+[LinkedIn](https://www.linkedin.com/in/amankushwah555/) · [Email](mailto:reachaman.k@gmail.com)
