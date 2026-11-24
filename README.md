@@ -13,19 +13,25 @@
 
 Software engineer with **3+ years** of experience across full stack development, cybersecurity products and applied machine learning.
 
-- I build and ship **QSafe DRPS**, a digital risk protection platform, at **C9Lab (Pinak Infosec Pvt Ltd)**: React frontend, Django backend, releases and deployments.
+- At **C9Lab (Pinak Infosec Pvt Ltd)** I build and ship cybersecurity products, and own their releases from requirements to production.
 - I am pursuing an **M.Tech in Artificial Intelligence and Machine Learning at BITS Pilani**. My dissertation predicts which lookalike domains of a brand will turn into live phishing sites, with risk scores analysts can trust.
 - I like turning messy, manual work into dependable systems, from payment flows to AI agent pipelines.
 
 ## Experience
 
-**Software Engineer** · C9Lab (Pinak Infosec Pvt Ltd), Indore · *Mar 2024 – Present*
+**Software Engineer · Product & Delivery** · C9Lab (Pinak Infosec Pvt Ltd), Indore · *Mar 2024 – Present*
 
-- Build and maintain cybersecurity products: **QSafe DRPS** (brand protection and digital risk), **C9Phish** (phishing simulation), **C9Pharos** (website monitoring) and **C9360** (secure remote desktop).
-- Own releases end to end for QSafe DRPS: release branches, merge requests, deployment plans and release notes across staging and production.
+- Build and maintain cybersecurity products for brand protection and digital risk, phishing simulation, website monitoring and secure remote access, across a React frontend and a Django backend.
 - Run security testing with Burp Suite and OWASP ZAP to find and fix vulnerabilities.
 - Lead pre-sales demos and proposals, and support client onboarding.
 - Run stand-ups, sprint planning and code reviews; mentor interns and junior developers on React and security basics.
+
+*Product ownership*
+
+- Own the release cycle: versioning, release notes, staging reviews, defect triage and production deployment plans.
+- Write product requirements, technical specifications and user guides, and track feature delivery.
+- Benchmarked our platform against 80+ digital risk vendors (battlecards, SWOT, gap analysis) to shape the roadmap.
+- Shape packaging and go-to-market: plan tiers, proposals, partner programmes, and partner training and enablement.
 
 **Software Engineer** · Tech Radix Pvt Ltd, Indore · *Feb 2023 – Feb 2024*
 
