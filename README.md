@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img alt="Aman Kushwah, Software Engineer: full stack, cybersecurity, AI and ML" src="assets/banner-light.svg" width="100%">
+  <img alt="Aman Kushwah, Assistant Product Manager: cybersecurity products, full stack, AI and ML" src="assets/banner-light.svg" width="100%">
 </picture>
 
 <p>
@@ -11,27 +11,29 @@
 
 ## About
 
-Software engineer with **3+ years** of experience across full stack development, cybersecurity products and applied machine learning.
+**Assistant Product Manager** with **3+ years** across software engineering, cybersecurity products and applied machine learning.
 
-- At **C9Lab (Pinak Infosec Pvt Ltd)** I build and ship cybersecurity products, and own their releases from requirements to production.
+- At **C9Lab (Pinak Infosec Pvt Ltd)** I own cybersecurity products from requirements to release, and still build them hands on.
 - I am pursuing an **M.Tech in Artificial Intelligence and Machine Learning at BITS Pilani**. My dissertation predicts which lookalike domains of a brand will turn into live phishing sites, with risk scores analysts can trust.
 - I like turning messy, manual work into dependable systems, from payment flows to AI agent pipelines.
 
 ## Experience
 
-**Software Engineer · Product & Delivery** · C9Lab (Pinak Infosec Pvt Ltd), Indore · *Mar 2024 – Present*
+**Assistant Product Manager** · C9Lab (Pinak Infosec Pvt Ltd), Indore · *Mar 2024 – Present* (joined as Software Engineer)
 
-- Build and maintain cybersecurity products for brand protection and digital risk, phishing simulation, website monitoring and secure remote access, across a React frontend and a Django backend.
-- Run security testing with Burp Suite and OWASP ZAP to find and fix vulnerabilities.
-- Lead pre-sales demos and proposals, and support client onboarding.
-- Run stand-ups, sprint planning and code reviews; mentor interns and junior developers on React and security basics.
-
-*Product ownership*
+*Product*
 
 - Own the release cycle: versioning, release notes, staging reviews, defect triage and production deployment plans.
 - Write product requirements, technical specifications and user guides, and track feature delivery.
 - Benchmarked our platform against 80+ digital risk vendors (battlecards, SWOT, gap analysis) to shape the roadmap.
 - Shape packaging and go-to-market: plan tiers, proposals, partner programmes, and partner training and enablement.
+- Lead pre-sales demos and support client onboarding.
+
+*Engineering and team*
+
+- Build and maintain cybersecurity products for brand protection and digital risk, phishing simulation, website monitoring and secure remote access, across a React frontend and a Django backend.
+- Run security testing with Burp Suite and OWASP ZAP to find and fix vulnerabilities.
+- Run stand-ups, sprint planning and code reviews; mentor interns and junior developers on React and security basics.
 
 **Software Engineer** · Tech Radix Pvt Ltd, Indore · *Feb 2023 – Feb 2024*
 
