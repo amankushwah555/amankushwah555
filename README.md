@@ -31,7 +31,7 @@
 
 *Engineering and team*
 
-- Build and maintain cybersecurity products for brand protection and digital risk, phishing simulation, website monitoring and secure remote access, across a React frontend and a Django backend.
+- Build and maintain cybersecurity products for brand protection and digital risk, phishing simulation, website monitoring and secure remote access, working hands on across the frontend and backend.
 - Run security testing with Burp Suite and OWASP ZAP to find and fix vulnerabilities.
 - Run stand-ups, sprint planning and code reviews; mentor interns and junior developers on React and security basics.
 
